@@ -24,13 +24,13 @@ Some findings would be found in the study to give relevant information to those 
 # Data
 
 1. Neighbourhoods in Toronto
-https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M (A list of postal codes of Toronto)
 
-2. Geospatial data to get latitude and longitude of neighbourhoods 
-https://cocl.us/Geospatial_data
+2. Geospatial data to get latitude and longitude of neighbourhoods
+https://cocl.us/Geospatial_data (To get information about latitude and longitute of a certain code.)
 
 3. Foursquare to get venues in a specific area. 
-https://developer.foursquare.com/
+https://developer.foursquare.com/ (APIs to provide information about venues, a specific venue photos, details and reviews from customers)
 
 4. Toronto Demographics from Open Government Toronto
-https://open.toronto.ca/dataset/wellbeing-toronto-demographics/ (Data last refreshed: Feb 28, 2017)
+https://open.toronto.ca/dataset/wellbeing-toronto-demographics/ (Data last refreshed: Feb 28, 2017) (Demographics data in terms of population, language, age, gender)
