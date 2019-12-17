@@ -91,3 +91,10 @@ For those who work for the __hospitality industry__, some relevant information c
 
 The study has attempted to apply knowledge of __data analysis, visualisation and also machine learning__ in terms of __clustering__ based on characteristics of objects. Those are respected to __business problem-solving__ as data would be shown clearly and readability. __Data is crucial__ to explore and discover to attain correct findings. Hence, __data preparation should be conducted with integrity methods despite time-consuming task considered.__
 
+# Code
+
+1. <a href="https://github.com/wil-di-venezia/applied-data-science/blob/master/Vegan%20Restaurant%20Business.ipynb">On Github</a>
+2. <a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/49019a00-7098-4519-a897-fd3dfea6f686/view?access_token=b415f035bea1398b0dbed10c06451d4acde15221b1200effb4b4cbba49957f66">On Watson (for map interaction)</a>
+
+
+
