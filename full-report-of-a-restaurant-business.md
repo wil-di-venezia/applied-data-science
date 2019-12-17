@@ -61,11 +61,11 @@ Data from Open Government Toronto was extracted to CSV file, loaded to code and 
 
 ## Data Exploratory and Analysis
 
-Neighbourhoods would be clustered with Machine Learning technique (k-means algorithm) accordingly its venues characteristics, for example, a kind of a venue, and how people visit that venue. Those neighbourhoods were divided into 5 clusters and presented on the map for readability. Chart plotting techniques are also employed to visualise information effectively in order to easily recognise the correlation between objects.
+Neighbourhoods would be clustered with __Machine Learning technique (k-means algorithm)__ accordingly its venues characteristics, for example, a kind of a venue, and how people visit that venue. Those neighbourhoods were divided into 5 clusters and presented on the map for readability. Chart plotting techniques are also employed to visualise information effectively in order to easily recognise the correlation between objects.
 
 # Results
 
-A map below shows areas were examined in this work. Those belong to Toronto city. A cluster numbered 3 (blue marks) are recognised to be fitted with the business requirement as people in those neighbourhoods often visit vegetarian restaurant including The Annex, North Midtown, Yorkville, Harbord, University of Toronto, Chinatown, Grange Park, Kensington Market. In other clusters (1,2,4,5), there is not found that a vegetarian restaurant is a good option for the population there. 
+A map below shows areas were examined in this work. Those belong to Toronto city. __A cluster numbered 3 (blue marks)__ are recognised to be fitted with the business requirement as people in __those neighbourhoods often visit vegetarian restaurant__ including The Annex, North Midtown, Yorkville, Harbord, University of Toronto, Chinatown, Grange Park, Kensington Market. In other clusters (1,2,4,5), there is not found that a vegetarian restaurant is a good option for the population there. 
 
 <img src="https://github.com/wil-di-venezia/applied-data-science/blob/master/assets/map.png" />
 
@@ -73,21 +73,21 @@ As a good business tends to attract relevant people, we would need to know top n
 
 <img src="https://github.com/wil-di-venezia/applied-data-science/blob/master/assets/top_vegan_restaurant_venues.png" />
 
-According to data from Open Government Toronto, 3 top neighbourhoods found (Chinatown, Grange Park, Kensington Market) are belong to JUST one area named Kensington-Chinatown. As the below graph, we can see non-native speakers have occupied a large part of the population in this area, approximately 96%. 
+According to data from Open Government Toronto, __3 top neighbourhoods found (Chinatown, Grange Park, Kensington Market) are belong to JUST one area named Kensington-Chinatown__. As the below graph, we can see __non-native speakers__ have occupied a large part of the population in this area, approximately __96%__. 
 
 <img src="https://github.com/wil-di-venezia/applied-data-science/blob/master/assets/population.png" />
 
-As the below bar chart, the Chinese language is recognised to be the highest bar with approximately 600 people speaking this language. 9 other languages are significantly low represented. 
+As the below bar chart, __the Chinese language__ is recognised to be the highest bar with approximately __600 people__ speaking this language. 9 other languages are significantly low represented. 
 
 <img src="https://github.com/wil-di-venezia/applied-data-science/blob/master/assets/languages.png" />
 
 # Discussion
 
-Kensington-Chinatown in Toronto should be found as a good place to set up a business restaurant in terms of vegetarian. Because it is the 3rd most people tend to visit. As there are 96% of the population would prefer to speak their languages (not English or French), businesses, therefore, should prepare themselves to be ready for languages exchange activities and training; or they can speak the language of a guest for good. Chinese is the most powerful language in this area because people speaking Chinese here approximately 35%. We would think about what we should serve in our vegan restaurants. Studying the above bar graph, the Chinese language could be represented for Chinese people here. It is therefore suggested to consider Chinese cuisine for those who tend to set up vegan restaurant businesses.
+__Kensington-Chinatown in Toronto__ should be found as a good place to set up a business restaurant in terms of __vegetarian__. Because it is the __3rd most people tend to visit__. As there are __96% of the population__ would prefer to speak their languages __(not English or French)__, businesses, therefore, should prepare themselves to be ready for languages exchange activities and training; or they can speak the language of a guest for good. __Chinese is the most powerful language in this area__ because people speaking Chinese here approximately __35%__. We would think about what we should serve in our vegan restaurants. Studying the above bar graph, the Chinese language could be represented for Chinese people here. It is therefore suggested to consider __Chinese cuisine__ for those who tend to set up vegan restaurant businesses.
 
-For those who work for the hospitality industry, some relevant information could be seen here as not only for restaurant but other businesses would be suggested to concern about services to adapt with Chinese culture in order to attract an appropriate targeted group of visitors.
+For those who work for the __hospitality industry__, some relevant information could be seen here as not only for restaurant but other businesses would be suggested to concern about services to adapt with __Chinese culture__ in order to attract an appropriate targeted group of visitors.
 
 # Conclusion 
 
-The study has attempted to apply knowledge of data analysis, visualisation and also machine learning in terms of clustering based on characteristics of objects. Those are respected to business problem-solving as data would be shown clearly and readability. Data is crucial to explore and discover to attain correct findings. Hence, data preparation should be conducted with integrity methods despite time-consuming task considered.
+The study has attempted to apply knowledge of __data analysis, visualisation and also machine learning__ in terms of __clustering__ based on characteristics of objects. Those are respected to __business problem-solving__ as data would be shown clearly and readability. __Data is crucial__ to explore and discover to attain correct findings. Hence, __data preparation should be conducted with integrity methods despite time-consuming task considered.__
 
