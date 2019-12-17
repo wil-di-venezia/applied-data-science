@@ -54,7 +54,7 @@ Some data rows from a list are missed their borough, they are therefore removed 
 
 Due to the requirement of a business, only areas in Toronto will be considered, others were removed to produce a clear data frame. 
 
-Retrieved records from Foursquare were filtered to keep relevant information: name, categories, latitude and longitude of venues. Data were treated to be binary flags for each type of category and sorted accordingly how people frequently visit them. For those records have not be found in Foursquare, they were being removed to keep data clean. 
+Retrieved records from Foursquare were filtered to keep relevant information: name, categories, latitude and longitude of venues. Data were treated to be binary flags for each type of category and sorted accordingly how people frequently visit them. For those records have not been found in Foursquare, they were being removed to keep data clean. 
 
 Data from Open Government Toronto was extracted to CSV file, loaded to code and renamed columns for readability and chart plotting.
 
@@ -69,7 +69,7 @@ A map below shows areas were examined in this work. Those belong to Toronto city
 
 <img src="https://github.com/wil-di-venezia/applied-data-science/blob/master/assets/map.png" />
 
-As a good business tends to attract relevant people, we would need to know top neighbourhoods people would like to visit a vegetarian restaurant. Top 3 neighbourhoods are found: Chinatown, Grange Park, Kensington Market, people in these areas have same the interests in terms of regarding their Most Common Venue. 
+As a good business tends to attract relevant people, we would need to know top neighbourhoods people would like to visit a vegetarian restaurant. Top 3 neighbourhoods are found: Chinatown, Grange Park, Kensington Market, people in these areas have same interests in terms of regarding their Most Common Venue. 
 
 <img src="https://github.com/wil-di-venezia/applied-data-science/blob/master/assets/top_vegan_restaurant_venues.png" />
 
@@ -89,12 +89,13 @@ For those who work for the __hospitality industry__, some relevant information c
 
 # Conclusion 
 
-The study has attempted to apply knowledge of __data analysis, visualisation and also machine learning__ in terms of __clustering__ based on characteristics of objects. Those are respected to __business problem-solving__ as data would be shown clearly and readability. __Data is crucial__ to explore and discover to attain correct findings. Hence, __data preparation should be conducted with integrity methods despite time-consuming task considered.__
+The study has attempted to apply knowledge of __data analysis, visualisation and also machine learning__ in terms of __clustering__ based on characteristics of objects. Those are respected to __business problem-solving__ as data would be shown clearly and readability. __Data is crucial__ to explore and discover to attain correct findings. Hence, __data preparation should be conducted with integrity methods despite the time-consuming task considered.__
 
 # Code
 
 1. <a href="https://github.com/wil-di-venezia/applied-data-science/blob/master/Vegan%20Restaurant%20Business.ipynb">On Github</a>
 2. <a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/49019a00-7098-4519-a897-fd3dfea6f686/view?access_token=b415f035bea1398b0dbed10c06451d4acde15221b1200effb4b4cbba49957f66">On Watson (for map interaction)</a>
 
+Cheers,
 
-
+William
